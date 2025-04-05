@@ -79,6 +79,12 @@ TODO
 
 Release Notes
 =============
+
+v0.6.0
+------
+
+- CSP support added
+
 v0.5.3
 ------
 
